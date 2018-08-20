@@ -1,0 +1,3 @@
+from urbansimauthenticator.urbansimauthenticator import UrbanSimAuthenticator
+
+__all__ = [UrbanSimAuthenticator]
