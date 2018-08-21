@@ -1,3 +1,3 @@
-from urbansimauthenticator.urbansimauthenticator import UrbanSimAuthenticator
+from urbansimauthenticator.urbansimauthenticator import USimAuth
 
-__all__ = [UrbanSimAuthenticator]
+__all__ = [USimAuth]

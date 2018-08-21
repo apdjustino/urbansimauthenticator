@@ -4,7 +4,7 @@ import requests
 import json
 
 
-class UrbanSimAuthenticator(Authenticator):
+class USimAuth(Authenticator):
 
     @gen.coroutine
     def authenticate(self, handler, data):
